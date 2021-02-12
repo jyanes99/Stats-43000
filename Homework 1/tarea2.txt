@@ -1,4 +1,4 @@
-RunTime	Budget	Rating
+RTime	Budget	Rating
 91	1	PG
 104	1	R
 97	1.1	R
